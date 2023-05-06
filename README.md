@@ -1,4 +1,4 @@
 ﻿# Actividad1-metodologia
-//Estudiante: Juan Felipe Paredes Calvache
+//Materia: Metodologías de Desarrollo de Software
 
-//Codigo de Estudiante: 202224951
+//Codigo de la asignatura: 710011C
